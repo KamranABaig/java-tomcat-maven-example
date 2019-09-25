@@ -6,6 +6,6 @@
 
 <p>For any issue, please contact system administrator</p>
 
-<p>The code is Deployed on Production, thanks all my team members for your support</p>
+
 </body>
 </html>
