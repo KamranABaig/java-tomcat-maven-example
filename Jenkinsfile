@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('Build Servlet Project') {
             steps {
-                bat 'clean package'
+                bat 'default clean package'
   
             }
          
