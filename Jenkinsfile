@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('Build Servlet Project') {
             steps {
-                bat 'maven clean package'
+                bat 'clean package'
   
             }
          
